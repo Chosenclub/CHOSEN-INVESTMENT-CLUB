@@ -1,0 +1,8 @@
+{
+  "short_name": "Chosen Club",
+  "name": "Chosen Investment Club",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#f8fafc"
+}
